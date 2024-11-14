@@ -1,4 +1,4 @@
-# Truss Structure Optimizer
+# Truss Structure Optimizer (Got 30 out of 30 points)
 
 ## Overview
 
